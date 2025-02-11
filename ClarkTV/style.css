@@ -1,9 +1,24 @@
+body {
+    background-color: rgb(179, 176, 176);
+}
 header {
     background: rgb(204, 191, 6);
 }
 main {
     background: black;
+    padding: 100px;
 }
 section {
-    background-color: rgb(224, 126, 13);
+    background-color: rgb(211, 47, 47);
+    display: inline;
+    border: 2px orange 200px;
+    border-style: inset;
+    
+   
+}   
+footer {
+    background-color: rgb(204, 191, 6);
+}
+.asd {
+    margin-bottom: 50px;
 }
